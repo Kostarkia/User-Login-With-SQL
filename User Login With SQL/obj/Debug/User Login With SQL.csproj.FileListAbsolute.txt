@@ -1,0 +1,11 @@
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\bin\Debug\User Login With SQL.exe.config
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\bin\Debug\User Login With SQL.exe
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\bin\Debug\User Login With SQL.pdb
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User_Login_With_SQL.Properties.Resources.resources
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User Login With SQL.csproj.GenerateResource.cache
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User Login With SQL.csproj.CoreCompileInputs.cache
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User Login With SQL.exe
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User Login With SQL.pdb
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User_Login_With_SQL.Login.resources
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User_Login_With_SQL.UserSetting.resources
+C:\Users\bolatfer\source\repos\User Login With SQL\User Login With SQL\obj\Debug\User_Login_With_SQL.Register.resources
