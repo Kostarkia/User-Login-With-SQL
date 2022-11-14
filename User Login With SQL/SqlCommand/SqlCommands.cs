@@ -2,6 +2,6 @@
 {
     public class SqlCommands
     {
-        public static string SqlConnectionURL = @"Data Source=.;Initial Catalog=UserLogin;Integrated Security=False;User ID=teknopalas;Password=admin;MultipleActiveResultSets=True;Connect Timeout=60";
+        public static string SqlConnectionURL = @"Data Source=//;Initial Catalog=//;Integrated Security=False;User ID=//;Password=//;MultipleActiveResultSets=True;Connect Timeout=60";
     }
 }
